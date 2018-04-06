@@ -1,7 +1,7 @@
+baseURL = "http://wadeslab.tk/"
 languageCode = "en-us"
-title = "Dopetrope"
-baseURL = "http://localhost:1313/"
-theme = "../.."
+title = "My New Hugo Site"
+theme = "dopetrope"
 
 [params.portfolio]
     title = "My Portfolio"
@@ -14,5 +14,5 @@ theme = "../.."
     foldername = "blog"
 
 [params.settings]
-    googleanalytics = "UA-113904582-1"
+    googleanalytics = "UA-113904582-2"
     disqus = "hugo-dopetrope"
