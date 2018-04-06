@@ -1,19 +1,39 @@
 sections:
 - icon: 'fa-cog'
-  title: 'Ipsum consequat'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+  title: 'REFERENCEMENT NATUREL DE QUALITE'
+  description: 'Les démarches qualitatives dans lesquelles s’inscrivent les moteurs de recherche aujourd’hui nous permettent d’affirmer que la qualité est devenue le mot d’ordre en matière de référencement naturel.
+
+                En effet, le référencement naturel doit être vu comme un tout et non pas comme une multitude de ressources isolées car tous les aspects sont intimement liés.
+
+                La qualité dont nous parlons demande un engagement fort. Et c’est à ce niveau que nous pensons nous différencier en ne comptant pas le temps attribué à nos clients et en faisant part de créativité pour aller toujours plus loin.'
 
 - icon: 'fa-flash'
-  title: 'Magna etiam dolor'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+  title: 'UNE PROXIMITE AVEC NOS CLIENTS'
+  description: 'Eskimoz est une Agence SEO basée à Paris.
+
+                Notre mission consiste à instaurer une relation de confiance avec nos clients en prenant le temps d’échanger, de justifier les travaux réalisés, et en envoyant un rapport complet à chaque fin de mission.
+
+                Sur le site, nous ne proposons aucun tarif car chaque cas est unique et on ne référence jamais deux sites de la même manière.
+
+                En revanche, les impératifs budgétaires sont pris en considération.'
 
 - icon: 'fa-star'
-  title: 'Tempus adipiscing'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+  title: 'UN SERVICE D’ACCOMPAGNEMENT'
+  description: 'Notre équipe ne s’arrête pas à une simple prestation de service. Nous vous accompagnons et vous soutenons dans votre projet et sommes disponibles par la suite pour répondre à toutes vos questions.'
+
+- icon: 'fa-star'
+  title: 'UN SERVICE HAUT DE GAMME'
+  description: 'Nous portons une attention particulière à la qualité de nos travaux afin d’apporter un référencement naturel durable et compétitif.'
+
+- icon: 'fa-cog'
+  title: 'UN SERVICE PROFESSIONNEL'
+  description: 'Nous envoyons à chaque fin de mission un rapport sur les actions menées et nous effectuons un suivi rigoureux de votre projet.'
+
+- icon: 'fa-flash'
+  title: 'CONTENT MARKETING'
+  description: "Le contenu est ROI : le contenu participe au SEO quand il est unique, pertinent, et qu'il a un potentiel viral. Woptimo vous aide à choisir une ligne éditoriale, des textes, des images, des vidéos et la mise en page qui capteront du trafic et l'intérêt de vos visiteurs."
 
 buttons:
 - link: '#'
-  text: 'Get Started'
-
-- link: '#'
-  text: 'Learn More'
+  desc: 'Vous recherchez une Agence SEO qui vous accompagne dans votre projet ?'
+  text: 'Parlez-nous de votre projet'
