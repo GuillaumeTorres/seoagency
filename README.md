@@ -3,8 +3,8 @@
 ## Install ##
 
 ```
-cd theme
-git clone https://github.com/curttimson/hugo-theme-dopetrope.git dopetrope
+mkdir themes
+git clone https://github.com/curttimson/hugo-theme-dopetrope.git themes/dopetrope
  ```
  
 ## Run ##
