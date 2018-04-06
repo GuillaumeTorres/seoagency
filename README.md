@@ -3,8 +3,10 @@
 ## Install ##
 
 ```
-mkdir themes
-git clone https://github.com/curttimson/hugo-theme-dopetrope.git themes/dopetrope
+git clone git@github.com:GuillaumeTorres/seoagency.git
+cd seoagency
+git submodule init
+git submodule update
  ```
  
 ## Run ##
