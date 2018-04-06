@@ -35,12 +35,51 @@
             </section>
         </div>
     </div>
+    <div class="row">
+        <div class="4u 12u(mobile)">
+            <section class="first">
+                {{ with index .Site.Data.home.intro.sections 3 }}
+                <i class='icon featured {{ .icon }}'></i>
+                <header>
+                    <h2>{{ .title }}</h2>
+                </header>
+                <p>{{ .description }}</p>
+                {{ end }}
+            </section>
+        </div>
+        <div class="4u 12u(mobile)">
+            <section class="middle">
+                {{ with index .Site.Data.home.intro.sections 4 }}
+                <i class="icon featured alt {{ .icon }}"></i>
+                <header>
+                    <h2>{{ .title }}</h2>
+                </header>
+                <p>{{ .description }}</p>
+                {{ end }}
+            </section>
+        </div>
+        <div class="4u 12u(mobile)">
+            <section class="middle">
+                {{ with index .Site.Data.home.intro.sections 5 }}
+                <i class="icon featured alt {{ .icon }}"></i>
+                <header>
+                    <h2>{{ .title }}</h2>
+                </header>
+                <p>{{ .description }}</p>
+                {{ end }}
+            </section>
+        </div>
+    </div>
     <footer>
-        <ul class="actions">
-            {{ with index .Site.Data.home.intro.buttons 0 }}
-            <p>{{ .desc }}</p>
-            <li><a href="{{ .link }}" class="button big">{{ .text }}</a></li>
-            {{ end }}
-        </ul>
+        <form action="index.html">
+            <input type="email" placeholder="Donnez nous votre email">
+
+            <ul class="actions">
+                {{ with index .Site.Data.home.intro.buttons 0 }}
+                <p>{{ .desc }}</p>
+                <li><input type="submit" valu="{{ .text }}" class="button big">></li>
+                {{ end }}
+            </ul>
+        </form>
     </footer>
 </section>

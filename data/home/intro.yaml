@@ -21,6 +21,18 @@ sections:
   title: 'UN SERVICE D’ACCOMPAGNEMENT'
   description: 'Notre équipe ne s’arrête pas à une simple prestation de service. Nous vous accompagnons et vous soutenons dans votre projet et sommes disponibles par la suite pour répondre à toutes vos questions.'
 
+- icon: 'fa-star'
+  title: 'UN SERVICE HAUT DE GAMME'
+  description: 'Nous portons une attention particulière à la qualité de nos travaux afin d’apporter un référencement naturel durable et compétitif.'
+
+- icon: 'fa-cog'
+  title: 'UN SERVICE PROFESSIONNEL'
+  description: 'Nous envoyons à chaque fin de mission un rapport sur les actions menées et nous effectuons un suivi rigoureux de votre projet.'
+
+- icon: 'fa-flash'
+  title: 'CONTENT MARKETING'
+  description: "Le contenu est ROI : le contenu participe au SEO quand il est unique, pertinent, et qu'il a un potentiel viral. Woptimo vous aide à choisir une ligne éditoriale, des textes, des images, des vidéos et la mise en page qui capteront du trafic et l'intérêt de vos visiteurs."
+
 buttons:
 - link: '#'
   desc: 'Vous recherchez une Agence SEO qui vous accompagne dans votre projet ?'
