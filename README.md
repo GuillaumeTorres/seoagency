@@ -3,7 +3,7 @@
 ## Install ##
 
 ```
-git clone git@github.com:GuillaumeTorres/seoagency.git
+git clone https://github.com:GuillaumeTorres/seoagency.git
 cd seoagency
 git submodule init
 git submodule update
