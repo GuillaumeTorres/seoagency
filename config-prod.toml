@@ -1,6 +1,6 @@
 baseURL = "http://seo.wadeslab.tk/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SEO Project"
 theme = "dopetrope"
 
 [params.portfolio]
